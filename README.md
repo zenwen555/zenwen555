@@ -8,6 +8,10 @@
 
 ### :handshake: Социальные сети:
 
+[ВКонтакте](https://vk.com/id323072517)
+
+[Telegram](https://t.me/zen_wen)
+
 <!--
 **zenwen555/zenwen555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
