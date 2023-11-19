@@ -15,7 +15,7 @@
   <a href="https://vk.com/id323072517" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge" />
   </a>
-  </div>
+</div>
 
 <!--
 **zenwen555/zenwen555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
