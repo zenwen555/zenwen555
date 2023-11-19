@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! Меня зовут Евгения! 👋
 
 <!--
 **zenwen555/zenwen555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
